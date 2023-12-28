@@ -71,6 +71,8 @@ notifications
 * [eudev](https://github.com/eudev-project/eudev): A standalone dynamic and
 persistent device naming support (aka userspace devfs) daemon that runs
 independently from the init system
+* [libdemi](https://github.com/illiliti/libdemi): A device enumeration,
+monitoring and introspecting library
 * [libudev (Go)](https://github.com/citilinkru/libudev): A Golang native
 implementation Udev library
 * [libudev (Rust)](https://github.com/dcuddeback/libudev-rs): A safe wrapper
