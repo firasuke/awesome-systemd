@@ -64,6 +64,51 @@ sysvinit style enviroments
 * [tmpfiles-rs](https://github.com/rust-torino/tmpfiles-rs): A Rust
 implementation of tmpfiles.d
 
+## systemd-udev
+* [devd-rs](https://codeberg.org/valpackett/devd-rs): A Rust library for
+listening to FreeBSD (also DragonFlyBSD) devd's device attach-detach
+notifications
+* [eudev](https://github.com/eudev-project/eudev): A standalone dynamic and
+persistent device naming support (aka userspace devfs) daemon that runs
+independently from the init system
+* [libudev (Go)](https://github.com/citilinkru/libudev): A Golang native
+implementation Udev library
+* [libudev (Rust)](https://github.com/dcuddeback/libudev-rs): A safe wrapper
+around the native libudev library
+* [libudev-devd](https://github.com/FreeBSDDesktop/libudev-devd): A
+libudev-compatible interface for devd
+* [libudev-fbsd](https://github.com/jiixyj/libudev-fbsd): A small udev shim for
+FreeBSD/devd
+* [libudev-zero](https://github.com/illiliti/libudev-zero): A drop-in
+replacement for libudev intended to work with any device manager
+* [libxdev](https://github.com/krytarowski/libxdev): An experimental native
+libudev replacement for NetBSD
+* [mdev (BusyBox)](https://busybox.net/): A mini udev for busybox
+* [mdev like a boss](https://github.com/slashbeast/mdev-like-a-boss): A stash
+for notes, scripts and configs for the system running with mdev as a udev
+* [mdev (Rust)](https://github.com/rust-italia/mdev): An mdev daemon workalike,
+written in pure rust
+* [mdev (Toybox)](http://landley.net/toybox/): Populate /dev directory and
+handle hotplug events
+replacement
+* [mdevctl](https://github.com/mdevctl/mdevctl): A mediated device management
+and persistence utility
+* [mdevd](https://skarnet.org/software/mdevd/): A small daemon managing kernel
+hotplug events, similarly to udevd
+* [nldev](https://core.suckless.org/nldev/): A netlink frontend for mdev,
+replacing the over-engineered udevd
+* [nlmon](https://core.suckless.org/nldev/): Replaces udevadm for monitoring
+network devices
+* [smdev](https://core.suckless.org/smdev/): A mostly mdev-compatible suckless
+program to manage device nodes
+* [smdev-phkr](https://aur.archlinux.org/packages/smdev): A configured smdev
+* [udev (Rust)](https://github.com/Smithay/udev-rs): A safe wrapper around the
+native libudev library
+* [ueventd](https://android.googlesource.com/platform/system/core/+/master/init/README.ueventd.md):
+Manages /dev, sets permissions for /sys, and handles firmware uevents
+* [vdev](https://github.com/jcnelson/vdev): A portable userspace device-file
+manager for UNIX-like operating systems
+
 ## Mirrors
 * [Codeberg](https://codeberg.org/firasuke/awesome)
 * [Framagit](https://framagit.org/firasuke/awesome)
