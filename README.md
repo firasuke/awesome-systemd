@@ -112,8 +112,8 @@ Manages /dev, sets permissions for /sys, and handles firmware uevents
 manager for UNIX-like operating systems
 
 ## Mirrors
-* [Codeberg](https://codeberg.org/firasuke/awesome)
-* [Framagit](https://framagit.org/firasuke/awesome)
-* [GitHub](https://github.com/firasuke/awesome)
-* [GitLab](https://gitlab.com/firasuke/awesome)
-* [SourceHut](https://git.sr.ht/~firasuke/awesome)
+* [Codeberg](https://codeberg.org/firasuke/awesome-systemd)
+* [Framagit](https://framagit.org/firasuke/awesome-systemd)
+* [GitHub](https://github.com/firasuke/awesome-systemd)
+* [GitLab](https://gitlab.com/firasuke/awesome-systemd)
+* [SourceHut](https://git.sr.ht/~firasuke/awesome-systemd)
