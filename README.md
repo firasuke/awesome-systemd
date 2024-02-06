@@ -1,11 +1,7 @@
 # awesome-systemd
 A curated list of awesome projects that provide systemd-like functionality
 
-## polkit
-* [consolekit2](https://github.com/ConsoleKit2/ConsoleKit2): A framework for
-defining and tracking users, login sessions, and seats
-
-## systemd-dbus
+## D-Bus
 * [basu](https://sr.ht/~emersion/basu/): The sd-bus library, extracted from
 systemd
 * [busd](https://github.com/dbus2/busd): A D-Bus bus (broker) implementation
@@ -20,7 +16,12 @@ modern C++
 libraries for Unix systems that aim to implement a bus
 * [ubus](https://openwrt.org/docs/techref/ubus): A micro system bus
 architecture from OpenWRT to provide system-level Inter-process
-Communication(IPC)
+Communication (IPC)
+* [zbus](https://github.com/dbus2/zbus): A Rust API for D-Bus communication
+
+## polkit
+* [consolekit2](https://github.com/ConsoleKit2/ConsoleKit2): A framework for
+defining and tracking users, login sessions, and seats
 
 ## systemd-journald
 * [rsyslog](https://www.rsyslog.com/): The rocket-fast system for log
