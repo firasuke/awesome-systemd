@@ -42,6 +42,8 @@ of a systemd-logind replacement in Rust
 * [turnstile](https://github.com/chimera-linux/turnstile): A session/login
 tracker and a service-manager-agnostic way to manage per-user service managers
 for user services
+* [utmps](https://skarnet.org/software/utmps/): A secure implementation of user
+accounting, using a daemon as the only authority to manage the utmp and wtmp data
 
 ## systemd-resolved
 * [openresolv](https://roy.marples.name/projects/openresolv): A resolvconf
