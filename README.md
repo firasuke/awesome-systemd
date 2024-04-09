@@ -55,6 +55,10 @@ systemd-sysusers
 * [opensysusers](https://github.com/cromerc/opensysusers): A utility written to
 process sysusers.d files so that they can be handled on systems with or without
 systemd installed
+* [obsysusers](https://web.obarun.org/software/obsysusers/obsysusers.html): A
+utility that parses and creates system users and groups, based on the file format
+and location specified in sysusers.d directories.
+
 
 ## systemd-tmpfiles
 * [opentmpfiles](https://github.com/OpenRC/opentmpfiles): A standalone utility
