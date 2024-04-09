@@ -26,6 +26,13 @@ defining and tracking users, login sessions, and seats
 ## systemd-journald
 * [rsyslog](https://www.rsyslog.com/): The rocket-fast system for log
 processing
+* [s6-log](https://skarnet.org/software/s6/s6-log.html): A reliable logging
+program with automated log rotation and full POSIX regular expression support
+* [socklog2](https://smarden.org/socklog2/): A small and secure replacement
+for syslogd
+* [syslog-ng](https://github.com/syslog-ng/syslog-ng): An enhanced log daemon,
+supporting a wide range of input and output methods: syslog, unstructured text,
+message queues, databases (SQL and NoSQL alike), and more
 
 ## systemd-logind (Session Manager)
 * [elogind](https://github.com/elogind/elogind): The systemd project's
