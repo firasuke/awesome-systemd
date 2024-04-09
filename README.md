@@ -30,6 +30,8 @@ processing
 program with automated log rotation and full POSIX regular expression support
 * [socklog2](https://smarden.org/socklog2/): A small and secure replacement
 for syslogd
+* [stumpless](https://github.com/goatshriek/stumpless): A C logging library
+built for high performance and a rich feature set
 * [syslog-ng](https://github.com/syslog-ng/syslog-ng): An enhanced log daemon,
 supporting a wide range of input and output methods: syslog, unstructured text,
 message queues, databases (SQL and NoSQL alike), and more
