@@ -42,8 +42,12 @@ of a systemd-logind replacement in Rust
 * [turnstile](https://github.com/chimera-linux/turnstile): A session/login
 tracker and a service-manager-agnostic way to manage per-user service managers
 for user services
+* [utlogd](https://web.obarun.org/software/utlogd/latest/): A login/logout user
+daemon tracker which use the inotify API to survey the change of the user by the
+utmp file
 * [utmps](https://skarnet.org/software/utmps/): A secure implementation of user
-accounting, using a daemon as the only authority to manage the utmp and wtmp data
+accounting, using a daemon as the only authority to manage the utmp and wtmp
+data
 
 ## systemd-resolved
 * [openresolv](https://roy.marples.name/projects/openresolv): A resolvconf
@@ -52,13 +56,12 @@ implementation, i.e. a resolv.conf management framework
 ## systemd-sysusers
 * [catnest](https://github.com/eweOS/catnest): A substitution for
 systemd-sysusers
+* [obsysusers](https://web.obarun.org/software/obsysusers/obsysusers.html): A
+utility that parses and creates system users and groups, based on the file
+format and location specified in sysusers.d directories
 * [opensysusers](https://github.com/cromerc/opensysusers): A utility written to
 process sysusers.d files so that they can be handled on systems with or without
 systemd installed
-* [obsysusers](https://web.obarun.org/software/obsysusers/obsysusers.html): A
-utility that parses and creates system users and groups, based on the file format
-and location specified in sysusers.d directories.
-
 
 ## systemd-tmpfiles
 * [opentmpfiles](https://github.com/OpenRC/opentmpfiles): A standalone utility
