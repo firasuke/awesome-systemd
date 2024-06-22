@@ -9,6 +9,9 @@ in Rust
 - [dbus-broker](https://github.com/bus1/dbus-broker): A high performance
 and reliable implementation of a message bus as defined by the D-Bus
 specification
+- [kdbus](https://www.freedesktop.org/wiki/Software/systemd/kdbus/): A transport
+layer for the DBus IPC system, meant as replacement for the UDS (Unix Domain
+Socket) transport layer
 - [sdbus-c++](https://github.com/Kistler-Group/sdbus-cpp): A high-level C++
 D-Bus library for Linux designed to provide expressive, easy-to-use API in
 modern C++
