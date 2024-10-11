@@ -139,5 +139,4 @@ manager for UNIX-like operating systems
 ## Mirrors
 - [Codeberg](https://codeberg.org/firasuke/awesome-systemd)
 - [GitHub](https://github.com/firasuke/awesome-systemd)
-- [GitLab](https://gitlab.com/firasuke/awesome-systemd)
 - [SourceHut](https://git.sr.ht/~firasuke/awesome-systemd)
