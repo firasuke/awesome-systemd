@@ -27,6 +27,11 @@ Communication (IPC)
 defining and tracking users, login sessions, and seats
 
 ## systemd-journald
+- [kslog](https://github.com/c-blake/kslog): A minimalistic kernel-syslogd for
+Linux in Nim
+- [procd](https://openwrt.org/docs/techref/procd): The OpenWrt process
+management daemon written in C which has replaced `hotplug2`, `busybox-klogd`,
+`busybox-syslogd` and `busybox-watchdog`
 - [rsyslog](https://www.rsyslog.com/): The rocket-fast system for log
 processing
 - [s6-log](https://skarnet.org/software/s6/s6-log.html): A reliable logging
@@ -126,6 +131,9 @@ hotplug events, similarly to udevd
 replacing the over-engineered udevd
 - [nlmon](https://core.suckless.org/nldev/): Replaces udevadm for monitoring
 network devices
+- [procd](https://openwrt.org/docs/techref/procd): The OpenWrt process
+management daemon written in C which has replaced `hotplug2`, `busybox-klogd`,
+`busybox-syslogd` and `busybox-watchdog`
 - [smdev](https://core.suckless.org/smdev/): A mostly mdev-compatible suckless
 program to manage device nodes
 - [smdev-phkr](https://aur.archlinux.org/packages/smdev): A configured smdev
