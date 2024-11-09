@@ -139,6 +139,8 @@ program to manage device nodes
 - [smdev-phkr](https://aur.archlinux.org/packages/smdev): A configured smdev
 - [udev (Rust)](https://github.com/Smithay/udev-rs): A safe wrapper around the
 native libudev library
+- [udevmod](https://github.com/arsv/minibase/tree/master/src/udev): minibase
+udev event monitor
 - [ueventd](https://android.googlesource.com/platform/system/core/+/master/init/README.ueventd.md):
 Manages /dev, sets permissions for /sys, and handles firmware uevents
 - [vdev](https://github.com/jcnelson/vdev): A portable userspace device-file
