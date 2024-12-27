@@ -22,10 +22,6 @@ architecture from OpenWRT to provide system-level Inter-process
 Communication (IPC)
 - [zbus](https://github.com/dbus2/zbus): A Rust API for D-Bus communication
 
-## polkit
-- [consolekit2](https://github.com/ConsoleKit2/ConsoleKit2): A framework for
-defining and tracking users, login sessions, and seats
-
 ## systemd-journald
 - [kslog](https://github.com/c-blake/kslog): A minimalistic kernel-syslogd for
 Linux in Nim
@@ -47,6 +43,8 @@ supporting a wide range of input and output methods: syslog, unstructured text,
 message queues, databases (SQL and NoSQL alike), and more
 
 ## systemd-logind (Session Manager)
+- [consolekit2](https://github.com/ConsoleKit2/ConsoleKit2): A framework for
+defining and tracking users, login sessions, and seats
 - [elogind](https://github.com/elogind/elogind): The systemd project's
 "logind", extracted out to be a standalone daemon
 - [greetd](https://git.sr.ht/~kennylevinsen/greetd): A minimal and flexible
