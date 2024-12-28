@@ -17,6 +17,8 @@ D-Bus library for Linux designed to provide expressive, easy-to-use API in
 modern C++
 - [skabus](https://skarnet.org/software/skabus/): A suite of programs and
 libraries for Unix systems that aim to implement a bus
+- [tangle](https://github.com/chimera-linux/tangle): A standalone version of
+sd-bus/sd-event extracted from systemd
 - [ubus](https://openwrt.org/docs/techref/ubus): A micro system bus
 architecture from OpenWRT to provide system-level Inter-process
 Communication (IPC)
