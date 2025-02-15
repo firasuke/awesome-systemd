@@ -131,6 +131,8 @@ replacement
 and persistence utility
 - [mdevd](https://skarnet.org/software/mdevd/): A small daemon managing kernel
 hotplug events, similarly to udevd
+- [ndev](https://github.com/TAAPArthur/ndev): A nano sized device manager with
+mdev/sdev like syntax
 - [nldev](https://core.suckless.org/nldev/): A netlink frontend for mdev,
 replacing the over-engineered udevd
 - [nlmon](https://core.suckless.org/nldev/): Replaces udevadm for monitoring
