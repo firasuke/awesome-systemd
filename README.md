@@ -96,6 +96,8 @@ systemd-tmpfiles that does not require systemd and includes support for
 sysvinit style enviroments
 - [tmpfiles-rs](https://github.com/rust-torino/tmpfiles-rs): A Rust
 implementation of tmpfiles.d
+- [usertmp.sh](https://codeberg.org/Zucca/usertmp.sh): A script to create temp
+directories for users on systems where systemd-logind or elogind is absent
 
 ## systemd-udev
 - [devd-rs](https://codeberg.org/valpackett/devd-rs): A Rust library for
