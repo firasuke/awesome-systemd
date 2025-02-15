@@ -76,7 +76,7 @@ implementation, i.e. a resolv.conf management framework
 - [catnest](https://github.com/eweOS/catnest): A substitution for
 systemd-sysusers
 - [esysusers](https://packages.artixlinux.org/packages/system/x86_64/esysusers/):
-the sysusers.d binary
+The sysusers.d binary
 - [obsysusers](https://web.obarun.org/software/obsysusers/obsysusers.html): A
 utility that parses and creates system users and groups, based on the file
 format and location specified in sysusers.d directories
@@ -86,7 +86,7 @@ systemd installed
 
 ## systemd-tmpfiles
 - [etmpfiles](https://packages.artixlinux.org/packages/system/x86_64/etmpfiles/):
-the tmpfiles.d binary
+The tmpfiles.d binary
 - [opentmpfiles](https://github.com/OpenRC/opentmpfiles): A standalone utility
 for handling systemd-style tmpfiles.d settings
 - [pawprint](https://github.com/eweOS/pawprint): A substitution of
