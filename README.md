@@ -83,6 +83,8 @@ format and location specified in sysusers.d directories
 - [opensysusers](https://github.com/cromerc/opensysusers): A utility written to
 process sysusers.d files so that they can be handled on systems with or without
 systemd installed
+- [sd-tools](https://github.com/chimera-linux/sd-tools): A collection of tools
+forked from systemd that provides sysusers and tmpfiles
 
 ## systemd-tmpfiles
 - [etmpfiles](https://packages.artixlinux.org/packages/system/x86_64/etmpfiles/):
@@ -91,6 +93,8 @@ The tmpfiles.d binary
 for handling systemd-style tmpfiles.d settings
 - [pawprint](https://github.com/eweOS/pawprint): A substitution of
 systemd-tmpfiles
+- [sd-tools](https://github.com/chimera-linux/sd-tools): A collection of tools
+forked from systemd that provides sysusers and tmpfiles
 - [tmpfilesd](https://github.com/juur/tmpfilesd): A replacement for
 systemd-tmpfiles that does not require systemd and includes support for sysvinit
 style enviroments
