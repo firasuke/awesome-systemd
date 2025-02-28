@@ -173,6 +173,8 @@ program to manage device nodes
 - [smdev-phkr](https://aur.archlinux.org/packages/smdev): A configured smdev
 - [udev (Rust)](https://github.com/Smithay/udev-rs): A safe wrapper around the
 native libudev library
+- [udevh-sd](https://github.com/arsv/udevh): A udev(7) helper script that makes
+mountpoints for (removable) devices
 - [udevmod](https://github.com/arsv/minibase/tree/master/src/udev): minibase
 udev event monitor
 - [ueventd](
