@@ -8,6 +8,9 @@ systemd
 in Rust based on zbus
 - [dbus-broker](https://github.com/bus1/dbus-broker): A high performance and
 reliable implementation of a message bus as defined by the D-Bus specification
+- [dbus-native](https://github.com/diwic/dbus-rs/tree/master/dbus-native): An
+experimental crate that replaces some functions in the libdbus C library with
+similar functions written in Rust
 - [dinit-dbus](https://github.com/chimera-linux/dinit-dbus): A D-Bus interface
 to dinit built upon libdinitctl
 - [kdbus](https://freedesktop.org/wiki/Software/systemd/kdbus/): A transport
