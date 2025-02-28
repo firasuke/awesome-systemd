@@ -113,6 +113,8 @@ monitoring and introspecting library
 implementation Udev library
 - [libudev (Rust)](https://github.com/dcuddeback/libudev-rs): A safe wrapper
 around the native libudev library
+- [libudev-compat](https://git.devuan.org/aitor_czr/libudev-compat): An
+ABI-compatible libudev that does not need udevd to be running
 - [libudev-devd](https://github.com/wulf7/libudev-devd): A libudev-compatible
 interface for devd
 - [libudev-fbsd](https://github.com/jiixyj/libudev-fbsd): A small udev shim for
