@@ -75,6 +75,7 @@ Linux systems that interfaces with systemd-logind to provide session management
 features to X11 window managers
 - [sessionman](https://github.com/KillingSpark/sessionman): An implementation of
 a session manager similar to systemd-logind in Rust
+- [syslogd](https://github.com/oasislinux/syslogd): oasis syslog daemon
 - [turnstile](https://github.com/chimera-linux/turnstile): A session/login
 tracker and a service-manager-agnostic way to manage per-user service managers
 for user services
