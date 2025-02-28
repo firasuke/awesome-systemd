@@ -34,7 +34,7 @@ management daemon written in C that has replaced `hotplug2`, `busybox-klogd`,
 - [s6-log](https://skarnet.org/software/s6/s6-log.html): A reliable logging
 program with automated log rotation, similar to daemontools' multilog, with full
 POSIX regular expression support
-- [socklog](https://smarden.org/socklog2/): A small and secure replacement for
+- [socklog](https://smarden.org/socklog/): A small and secure replacement for
 syslogd
 - [stumpless](https://github.com/goatshriek/stumpless): A C logging library
 built for high performance and a rich feature set
