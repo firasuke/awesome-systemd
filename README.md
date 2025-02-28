@@ -13,6 +13,9 @@ to dinit built upon libdinitctl
 - [kdbus](https://freedesktop.org/wiki/Software/systemd/kdbus/): A transport
 layer for the DBus IPC system, meant as replacement for the UDS (Unix Domain
 Socket) transport layer
+- [rustbus](https://github.com/KillingSpark/rustbus): A library that implements
+the dbus specification for local unix sockets and enables clients to communicate
+over the dbus daemon
 - [sdbus-c++](https://github.com/Kistler-Group/sdbus-cpp): A high-level C++
 D-Bus library for Linux designed to provide expressive, easy-to-use API in
 modern C++
