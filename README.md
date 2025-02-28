@@ -8,6 +8,8 @@ systemd
 in Rust based on zbus
 - [dbus-broker](https://github.com/bus1/dbus-broker): A high performance and
 reliable implementation of a message bus as defined by the D-Bus specification
+- [dbus-bytestream](https://github.com/srwalter/dbus-bytestream): A native
+implementation of the D-Bus wire protocol for Rust
 - [dbus-native](https://github.com/diwic/dbus-rs/tree/master/dbus-native): An
 experimental crate that replaces some functions in the libdbus C library with
 similar functions written in Rust
