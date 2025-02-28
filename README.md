@@ -2,6 +2,8 @@
 A curated list of awesome projects that provide systemd-like functionality
 
 ## D-Bus
+- [async-rustbus](https://github.com/cmaves/async-rustbus): An asynchronous
+implementation of the DBus protocol based on rustbus
 - [basu](https://git.sr.ht/~emersion/basu): The sd-bus library, extracted from
 systemd
 - [busd](https://github.com/dbus2/busd): A D-Bus bus (broker) implementation
