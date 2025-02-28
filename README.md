@@ -8,6 +8,8 @@ systemd
 in Rust based on zbus
 - [dbus-broker](https://github.com/bus1/dbus-broker): A high performance and
 reliable implementation of a message bus as defined by the D-Bus specification
+- [dinit-dbus](https://github.com/chimera-linux/dinit-dbus): A D-Bus interface
+to dinit built upon libdinitctl
 - [kdbus](https://freedesktop.org/wiki/Software/systemd/kdbus/): A transport
 layer for the DBus IPC system, meant as replacement for the UDS (Unix Domain
 Socket) transport layer
