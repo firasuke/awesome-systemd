@@ -53,6 +53,8 @@ program with automated log rotation, similar to daemontools' multilog, with full
 POSIX regular expression support
 - [socklog](https://smarden.org/socklog/): A small and secure replacement for
 syslogd
+- [socklog-s6](https://github.com/just-containers/socklog): A fork of socklog
+that uses skalibs
 - [stumpless](https://github.com/goatshriek/stumpless): A C logging library
 built for high performance and a rich feature set
 - [sysklogd](https://github.com/troglobit/sysklogd): A BSD syslog daemon with
