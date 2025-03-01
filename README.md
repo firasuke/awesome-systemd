@@ -181,6 +181,7 @@ native libudev library
 mountpoints for (removable) devices
 - [udevmod](https://github.com/arsv/minibase/tree/master/src/udev): minibase
 udev event monitor
+- [uevent](https://github.com/arachsys/init): A simple uevent listener
 - [ueventd](
 https://android.googlesource.com/platform/system/core/+/master/init/README.ueventd.md):
 Manages /dev, sets permissions for /sys, and handles firmware uevents
