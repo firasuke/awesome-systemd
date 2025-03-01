@@ -59,6 +59,7 @@ that uses skalibs
 built for high performance and a rich feature set
 - [sysklogd](https://github.com/troglobit/sysklogd): A BSD syslog daemon with
 syslog()/syslogp() API replacement for Linux, RFC3164 + RFC5424
+- [syslog](https://github.com/arachsys/init): A little system logger daemon
 - [syslog-ng](https://github.com/syslog-ng/syslog-ng): An enhanced log daemon,
 supporting a wide range of input and output methods: syslog, unstructured text,
 message queues, databases (SQL and NoSQL alike), and more
