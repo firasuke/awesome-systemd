@@ -98,9 +98,9 @@ implementation, i.e. a resolv.conf management framework
 systemd-sysusers
 - [esysusers](https://packages.artixlinux.org/packages/system/x86_64/esysusers/):
 The sysusers.d binary
-- [obsysusers](https://web.obarun.org/software/obsysusers/0.1.2.1/index/):
-A utility that parses and creates system users and groups, based on the file
-format and location specified in sysusers.d directories
+- [obsysusers](https://git.obarun.org/obdev/obsysusers): A utility that parses
+and creates system users and groups, based on the file format and location
+specified in sysusers.d directories
 - [opensysusers](https://github.com/cromerc/opensysusers): A utility written to
 process sysusers.d files so that they can be handled on systems with or without
 systemd installed
@@ -110,8 +110,9 @@ forked from systemd that provides sysusers and tmpfiles
 ## systemd-tmpfiles
 - [etmpfiles](https://packages.artixlinux.org/packages/system/x86_64/etmpfiles/):
 The tmpfiles.d binary
-- [opentmpfiles](https://github.com/OpenRC/opentmpfiles): A standalone utility
-for handling systemd-style tmpfiles.d settings
+- [opentmpfiles](https://git.obarun.org/obdev/opentmpfiles): A utility script
+written in pure POSIX sh to parse and apply tmpfiles.d style file coming from
+systemd
 - [pawprint](https://github.com/eweOS/pawprint): A substitution of
 systemd-tmpfiles
 - [sd-tools](https://github.com/chimera-linux/sd-tools): A collection of tools
