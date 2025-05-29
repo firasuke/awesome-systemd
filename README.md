@@ -189,6 +189,9 @@ Manages /dev, sets permissions for /sys, and handles firmware uevents
 - [vdev](https://github.com/jcnelson/vdev): A portable userspace device-file
 manager for UNIX-like operating systems
 
+## Community
+- [Reddit](https://reddit.com/r/distrodev)
+
 ## Mirrors
 - [Codeberg](https://codeberg.org/firasuke/awesome-systemd)
 - [GitHub](https://github.com/firasuke/awesome-systemd)
