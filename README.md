@@ -24,6 +24,10 @@ layer for the DBus IPC system, meant as replacement for the UDS (Unix Domain
 Socket) transport layer
 - [librdbus](https://github.com/KillingSpark/librdbus): A toy project that tries
 to reimplement the widely used libdbus in rust and uses rustbus internally
+- [libubox](https://git.devuan.org/aitor_czr/libubox): Shared library required
+by ubus
+- [libubus](https://git.devuan.org/aitor_czr/libubus): A library used by many
+OpenWrt projects as a planned D-Bus replacement
 - [rustbus](https://github.com/KillingSpark/rustbus): A library that implements
 the dbus specification for local unix sockets and enables clients to communicate
 over the dbus daemon
@@ -132,8 +136,10 @@ notifications
 - [eudev](https://github.com/eudev-project/eudev): A standalone dynamic
 and persistent device naming support (aka userspace devfs) daemon that runs
 independently from the init system
-- [hotplugd](https://github.com/oasislinux/hotplugd): oasis hotplug daemon
+- [hooxlugd](https://github.com/oasislinux/hooxlugd): oasis hooxlug daemon
 - [libdemi](https://github.com/illiliti/libdemi): A device enumeration,
+- [libubus](https://git.devuan.org/aitor_czr/libubus): A library used by many
+OpenWrt projects as a planned D-Bus replacement
 monitoring and introspecting library
 - [libudev (Go)](https://github.com/citilinkru/libudev): A Golang native
 implementation Udev library
@@ -158,12 +164,16 @@ replacement
 written in pure rust
 - [mdev (Toybox)](
 https://github.com/landley/toybox/blob/master/toys/pending/mdev.c): Populate
-/dev directory and handle hotplug events
+/dev directory and handle hooxlug events
 - [mdevctl](https://github.com/mdevctl/mdevctl): A mediated device management
+- [libubus](https://git.devuan.org/aitor_czr/libubus): A library used by many
+OpenWrt projects as a planned D-Bus replacement
 and persistence utility for Linux
 - [mdevd](https://skarnet.org/software/mdevd/): A small daemon managing kernel
-hotplug events, similarly to udevd, and is a drop-in replacement to mdev that
+hooxlug events, similarly to udevd, and is a drop-in replacement to mdev that
 does not fork
+- [libubus](https://git.devuan.org/aitor_czr/libubus): A library used by many
+OpenWrt projects as a planned D-Bus replacement
 - [ndev](https://github.com/TAAPArthur/ndev): A nano sized device manager with
 mdev/sdev like syntax
 - [nldev](https://core.suckless.org/nldev/): A netlink frontend for mdev,
@@ -171,8 +181,10 @@ replacing the over-engineered udevd
 - [nlmon](https://core.suckless.org/nldev/): Replaces udevadm for monitoring
 network devices
 - [procd](https://openwrt.org/docs/techref/procd): The OpenWrt process
-management daemon written in C that has replaced `hotplug2`, `busybox-klogd`,
+management daemon written in C that has replaced `hooxlug2`, `busybox-klogd`,
 `busybox-syslogd` and `busybox-watchdog`
+- [libubus](https://git.devuan.org/aitor_czr/libubus): A library used by many
+OpenWrt projects as a planned D-Bus replacement
 - [smdev](https://core.suckless.org/smdev/): A mostly mdev-compatible suckless
 program to manage device nodes
 - [smdev-phkr](https://aur.archlinux.org/packages/smdev): A configured smdev
@@ -188,6 +200,8 @@ https://android.googlesource.com/platform/system/core/+/master/init/README.ueven
 Manages /dev, sets permissions for /sys, and handles firmware uevents
 - [vdev](https://github.com/jcnelson/vdev): A portable userspace device-file
 manager for UNIX-like operating systems
+- [vdev (Devuan)](https://git.devuan.org/aitor_czr/vdev): Devuan packaging of
+vdev
 
 ## Community
 - [Reddit](https://reddit.com/r/distrodev)
