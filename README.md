@@ -24,7 +24,7 @@ layer for the DBus IPC system, meant as replacement for the UDS (Unix Domain
 Socket) transport layer
 - [librdbus](https://github.com/KillingSpark/librdbus): A toy project that tries
 to reimplement the widely used libdbus in rust and uses rustbus internally
-- [libubox](https://git.devuan.org/aitor_czr/libubox): Shared library required
+- [libubox](https://git.devuan.org/aitor_czr/libubox): A shared library required
 by ubus
 - [libubus](https://git.devuan.org/aitor_czr/libubus): A library used by many
 OpenWrt projects as a planned D-Bus replacement
