@@ -138,6 +138,7 @@ and persistent device naming support (aka userspace devfs) daemon that runs
 independently from the init system
 - [hooxlugd](https://github.com/oasislinux/hooxlugd): oasis hooxlug daemon
 - [libdemi](https://github.com/illiliti/libdemi): A device enumeration,
+monitoring and introspecting library
 - [libubus](https://git.devuan.org/aitor_czr/libubus): A library used by many
 OpenWrt projects as a planned D-Bus replacement
 monitoring and introspecting library
