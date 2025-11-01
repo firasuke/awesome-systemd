@@ -43,6 +43,8 @@ from OpenWrt to provide system-level Inter-process Communication (IPC)
 - [zbus](https://github.com/dbus2/zbus): A Rust API for D-Bus communication
 
 ## systemd-journald
+- [bsyslogd](https://git.sr.ht/~lanodan/bsyslogd): A basic/barebones syslog
+daemon
 - [fail-syslogd](https://github.com/juur/fail-syslogd): A syslog daemon for
 Linux and Linux-like operating systems that follows the original Linux syslogd
 specification from the man page
