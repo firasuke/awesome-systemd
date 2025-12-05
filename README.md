@@ -135,6 +135,8 @@ directories for users on systems where systemd-logind or elogind is absent
 - [devd-rs](https://codeberg.org/valpackett/devd-rs): A Rust library
 for listening to FreeBSD (also DragonFlyBSD) devd's device attach-detach
 notifications
+- [devpubd](https://man.netbsd.org/devpubd.8): A device publish daemon for
+automatic device node creation
 - [eudev](https://github.com/eudev-project/eudev): A standalone dynamic
 and persistent device naming support (aka userspace devfs) daemon that runs
 independently from the init system
