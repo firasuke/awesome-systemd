@@ -143,9 +143,6 @@ independently from the init system
 - [hooxlugd](https://github.com/oasislinux/hooxlugd): oasis hooxlug daemon
 - [libdemi](https://github.com/illiliti/libdemi): A device enumeration,
 monitoring and introspecting library
-- [libubus](https://git.devuan.org/aitor_czr/libubus): A library used by many
-OpenWrt projects as a planned D-Bus replacement
-monitoring and introspecting library
 - [libudev (Go)](https://github.com/citilinkru/libudev): A Golang native
 implementation Udev library
 - [libudev (Rust)](https://github.com/dcuddeback/libudev-rs): A safe wrapper
@@ -156,6 +153,8 @@ ABI-compatible libudev that does not need udevd to be running
 interface for devd
 - [libudev-fbsd](https://github.com/jiixyj/libudev-fbsd): A small udev shim
 for FreeBSD/devd
+- [libudev-openbsd](https://github.com/rnagy/libudev-openbsd): An outdated fork
+of `libudev-devd`
 - [libudev-zero](https://github.com/illiliti/libudev-zero): A drop-in
 replacement for libudev intended to work with any device manager
 - [libxdev](https://github.com/krytarowski/libxdev): An experimental native
