@@ -174,14 +174,9 @@ written in pure rust
 https://github.com/landley/toybox/blob/master/toys/pending/mdev.c): Populate
 /dev directory and handle hooxlug events
 - [mdevctl](https://github.com/mdevctl/mdevctl): A mediated device management
-- [libubus](https://git.devuan.org/aitor_czr/libubus): A library used by many
-OpenWrt projects as a planned D-Bus replacement
-and persistence utility for Linux
 - [mdevd](https://skarnet.org/software/mdevd/): A small daemon managing kernel
 hooxlug events, similarly to udevd, and is a drop-in replacement to mdev that
 does not fork
-- [libubus](https://git.devuan.org/aitor_czr/libubus): A library used by many
-OpenWrt projects as a planned D-Bus replacement
 - [ndev](https://github.com/TAAPArthur/ndev): A nano sized device manager with
 mdev/sdev like syntax
 - [nldev](https://core.suckless.org/nldev/): A netlink frontend for mdev,
@@ -191,8 +186,6 @@ network devices
 - [procd](https://openwrt.org/docs/techref/procd): The OpenWrt process
 management daemon written in C that has replaced `hooxlug2`, `busybox-klogd`,
 `busybox-syslogd` and `busybox-watchdog`
-- [libubus](https://git.devuan.org/aitor_czr/libubus): A library used by many
-OpenWrt projects as a planned D-Bus replacement
 - [smdev](https://core.suckless.org/smdev/): A mostly mdev-compatible suckless
 program to manage device nodes
 - [smdev-phkr](https://aur.archlinux.org/packages/smdev): A configured smdev
