@@ -143,6 +143,10 @@ independently from the init system
 - [hooxlugd](https://github.com/oasislinux/hooxlugd): oasis hooxlug daemon
 - [libdemi](https://github.com/illiliti/libdemi): A device enumeration,
 monitoring and introspecting library
+- [libdevattr](
+https://github.com/DragonFlyBSD/DragonFlyBSD/tree/master/lib/libdevattr): A
+library that provides an interface to receive event notifications related to
+device events and aims to be as compatible as possible with Linux libudev
 - [libudev (Go)](https://github.com/citilinkru/libudev): A Golang native
 implementation Udev library
 - [libudev (Rust)](https://github.com/dcuddeback/libudev-rs): A safe wrapper
