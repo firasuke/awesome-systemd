@@ -205,7 +205,6 @@ manager for UNIX-like operating systems
 vdev
 
 ## Community
-- [Discord](https://discord.gg/nDKNmNc)
 - [Reddit](https://reddit.com/r/distrodev)
 
 ## Mirrors
