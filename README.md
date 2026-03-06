@@ -40,6 +40,8 @@ libraries for Unix systems that aim to implement a bus
 sd-bus/sd-event extracted from systemd
 - [ubus](https://openwrt.org/docs/techref/ubus): A micro system bus architecture
 from OpenWrt to provide system-level Inter-process Communication (IPC)
+- [udbus](https://github.com/vincenthz/udbus): A tiny embeddable dbus library
+that is easier and much smaller than the official library
 - [zbus](https://github.com/dbus2/zbus): A Rust API for D-Bus communication
 
 ## systemd-journald
