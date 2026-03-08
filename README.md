@@ -44,6 +44,8 @@ implementation inspired by `udbus` that is smaller and more feature-rich
 from OpenWrt to provide system-level Inter-process Communication (IPC)
 - [udbus](https://github.com/vincenthz/udbus): A tiny embeddable dbus library
 that is easier and much smaller than the official library
+- [ybus](https://github.com/nim-windowing/ybus): An implementation of the D-Bus
+protocol in pure Nim
 - [zbus](https://github.com/dbus2/zbus): A Rust API for D-Bus communication
 
 ## systemd-journald
