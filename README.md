@@ -210,9 +210,6 @@ manager for UNIX-like operating systems
 - [vdev (Devuan)](https://git.devuan.org/aitor_czr/vdev): Devuan packaging of
 vdev
 
-## Community
-- [Reddit](https://reddit.com/r/distrodev)
-
 ## Mirrors
 - [Codeberg](https://codeberg.org/firasuke/awesome-systemd)
 - [GitHub](https://github.com/firasuke/awesome-systemd)
