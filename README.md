@@ -129,6 +129,8 @@ systemd
 systemd-tmpfiles
 - [sd-tools](https://github.com/chimera-linux/sd-tools): A collection of tools
 forked from systemd that provides sysusers and tmpfiles
+- [seedfiles](https://codeberg.org/Gardenhouse/seedfiles): A portable drop-in
+reimplementation of systemd-tmpfiles
 - [tmpfilesd](https://github.com/juur/tmpfilesd): A replacement for
 systemd-tmpfiles that does not require systemd and includes support for sysvinit
 style enviroments
