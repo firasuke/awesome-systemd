@@ -48,6 +48,10 @@ that is easier and much smaller than the official library
 protocol in pure Nim
 - [zbus](https://github.com/dbus2/zbus): A Rust API for D-Bus communication
 
+## systemd-hostnamed
+- [gardenhostd](https://git.pinkro.se/Rose/gardenhouse/gardenhostd.git/): A
+minimal Python implementation of `systemd-hostnamed`
+
 ## systemd-journald
 - [bsyslogd](https://git.sr.ht/~lanodan/bsyslogd): A basic/barebones syslog
 daemon
