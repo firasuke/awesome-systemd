@@ -178,6 +178,8 @@ ABI-compatible libudev that does not need udevd to be running
 interface for devd
 - [libudev-fbsd](https://github.com/jiixyj/libudev-fbsd): A small udev shim
 for FreeBSD/devd
+- [libudev-garden](https://git.pinkro.se/Rose/gardenhouse/libudev-garden.git/):
+A fork of `libudev-zero` updated to work with `gardendevd`
 - [libudev-openbsd](https://github.com/rnagy/libudev-openbsd): An outdated fork
 of `libudev-devd`
 - [libudev-zero](https://github.com/illiliti/libudev-zero): A drop-in
