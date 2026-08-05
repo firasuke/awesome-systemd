@@ -214,6 +214,10 @@ manager for UNIX-like operating systems
 - [vdev (Devuan)](https://git.devuan.org/aitor_czr/vdev): Devuan packaging of
 vdev
 
+## systemd-userdb
+- [gardenerDB](https://git.pinkro.se/Rose/gardenhouse/gardenerdb.git/): A
+drop-in standalone implementation of `systemd-userdb`
+
 ## Mirrors
 - [Codeberg](https://codeberg.org/firasuke/awesome-systemd)
 - [GitHub](https://github.com/firasuke/awesome-systemd)
