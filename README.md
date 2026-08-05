@@ -52,6 +52,11 @@ protocol in pure Nim
 - [gardenhostd](https://git.pinkro.se/Rose/gardenhouse/gardenhostd.git/): A
 minimal Python implementation of `systemd-hostnamed`
 
+## systemd-hwdb
+- [gardenhouse hwdb](https://git.pinkro.se/Rose/gardenhouse/hwdb.git/):
+A community-driven mirror of `systemd-hwdb` with room for additional,
+independently maintained hardware rules
+
 ## systemd-journald
 - [bsyslogd](https://git.sr.ht/~lanodan/bsyslogd): A basic/barebones syslog
 daemon
