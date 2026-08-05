@@ -129,8 +129,8 @@ systemd
 systemd-tmpfiles
 - [sd-tools](https://github.com/chimera-linux/sd-tools): A collection of tools
 forked from systemd that provides sysusers and tmpfiles
-- [seedfiles](https://codeberg.org/Gardenhouse/seedfiles): A portable drop-in
-reimplementation of systemd-tmpfiles
+- [seedfiles](https://git.pinkro.se/Rose/gardenhouse/seedfiles.git/): A portable
+drop-in reimplementation of systemd-tmpfiles
 - [tmpfilesd](https://github.com/juur/tmpfilesd): A replacement for
 systemd-tmpfiles that does not require systemd and includes support for sysvinit
 style enviroments
@@ -148,6 +148,8 @@ automatic device node creation
 - [eudev](https://github.com/eudev-project/eudev): A standalone dynamic
 and persistent device naming support (aka userspace devfs) daemon that runs
 independently from the init system
+- [gardendevd](https://git.pinkro.se/Rose/gardenhouse/gardendevd.git/): A udev
+daemon (optionally) running on top of `mdevd` to replace `systemd-udev`
 - [hooxlugd](https://github.com/oasislinux/hooxlugd): oasis hooxlug daemon
 - [libdemi](https://github.com/illiliti/libdemi): A device enumeration,
 monitoring and introspecting library
