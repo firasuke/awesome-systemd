@@ -122,6 +122,8 @@ process sysusers.d files so that they can be handled on systems with or without
 systemd installed
 - [sd-tools](https://github.com/chimera-linux/sd-tools): A collection of tools
 forked from systemd that provides sysusers and tmpfiles
+- [sysuserd](https://git.pinkro.se/Rose/gardenhouse/sysuserd.git/): A
+reimplementation of `systemd-sysusers` in POSIX shell independent of systemd
 
 ## systemd-tmpfiles
 - [etmpfiles](https://packages.artixlinux.org/packages/system/x86_64/etmpfiles/):
