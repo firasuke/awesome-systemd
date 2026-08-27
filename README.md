@@ -68,7 +68,7 @@ Linux in Nim
 - [procd](https://openwrt.org/docs/techref/procd): The OpenWrt process
 management daemon written in C that has replaced `hotplug2`, `busybox-klogd`,
 `busybox-syslogd` and `busybox-watchdog`
-- [rsyslog](https://www.rsyslog.com/): The rocket-fast system for log processing
+- [rsyslog](https://rsyslog.com/): The rocket-fast system for log processing
 - [s6-log](https://skarnet.org/software/s6/s6-log.html): A reliable logging
 program with automated log rotation, similar to daemontools' multilog, with full
 POSIX regular expression support
