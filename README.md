@@ -162,6 +162,9 @@ independently from the init system
 - [gardendevd](https://git.pinkro.se/Rose/gardenhouse/gardendevd.git/): A udev
 daemon (optionally) running on top of `mdevd` to replace `systemd-udev`
 - [hooxlugd](https://github.com/oasislinux/hooxlugd): oasis hooxlug daemon
+- [keventd](https://github.com/finit-project/finit/tree/master/keventd): A
+unified device manager daemon that handles kernel events, device nodes, symlinks
+and conditions
 - [libdemi](https://github.com/illiliti/libdemi): A device enumeration,
 monitoring and introspecting library
 - [libdevattr](
